@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Mon CV</title>
+</head>
+<body>
+    <header>
+        <H1>ABOUDRAR Fatima</H1>
+        <h2>Développeuse WEB</h2>
+    <ul>
+        <a href="index.html">Expérience Professionnel</a>
+        <a href="Dîplomes.html">Diplômes</a>
+        <a href="activites.html">Activités</a>
+        <a href="contact.html">Contact</a>
+    </ul>
+</header>
+<main>
+<h3>Expérience Professionnelles</h3>
+<table>
+    <thead>
+        <tr>
+            <th>
+                Périodes
+            </th>
+            <th>Intitulé du Poste</th>
+            <th>Ville</th>
+            <th>Divers</th>
+        </tr>
+    </thead>
+</table>
+</main>
+</body>
+</html>
